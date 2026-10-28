@@ -1,2 +1,8 @@
-*.mp4
 *.class
+*.mp4
+out/
+bin/
+.idea/
+.vscode/
+.DS_Store
+tempCodeRunnerFile.java
